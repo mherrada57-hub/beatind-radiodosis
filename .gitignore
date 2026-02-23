@@ -1,0 +1,16 @@
+src/config-db.php
+.env
+.env.*
+*.log
+logs/
+*.tmp
+cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+public_html/
+*.backup
+*.bak
+*.sql.gz
